@@ -1,0 +1,6 @@
+
+./balance_partitioning 50       Output 35
+./balance_partitioning 1000     Output 707
+./balance_partitioning 10000    Output 7071
+./balance_partitioning 100000   Output 26554
+
