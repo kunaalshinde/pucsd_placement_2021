@@ -1,0 +1,6 @@
+
+./bonusnth 3    Output 34 
+./bonusnth 10   Output 832040 
+./bonusnth 22   Output 27777890035288 
+./bonusnth 26   Output 8944394323791464 
+
