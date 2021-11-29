@@ -1,0 +1,6 @@
+
+./clock_angle 09 00   Output 90.00
+./clock_angle 03 30   Output 75.00
+./clock_angle 05 00   Output 150.00
+./clock_angle 08 45   Output 7.00
+
